@@ -18,7 +18,7 @@
   
 -- The user will have to click on that button, if the user hits on the correct button then the game goes on and the next sequence will be shown to the user. 
   
--- The next sequence will have two button flashing, one will be the previous one and the second one will be the new one added to the sequence. 
+-- The next sequence will have two button flashing, one will be the previous one and the second will be the new one added to the sequence. 
   
 -- The game will go on as long as the user matches the game pattern(i.e hit correct buttons according to the sequence). 
   
